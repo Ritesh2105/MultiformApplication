@@ -1,0 +1,128 @@
+C:\Users\rites\source\repos\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.csprojAssemblyReference.cache
+C:\Users\rites\source\repos\MultiformApplication\MultiformApplication\obj\Debug\EmployeeWindow.g.cs
+C:\Users\rites\source\repos\MultiformApplication\MultiformApplication\obj\Debug\MainWindow.g.cs
+C:\Users\rites\source\repos\MultiformApplication\MultiformApplication\obj\Debug\App.g.cs
+C:\Users\rites\source\repos\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication_MarkupCompile.cache
+C:\Users\rites\source\repos\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication_MarkupCompile.lref
+C:\Users\rites\source\repos\MultiformApplication\MultiformApplication\bin\Debug\MultiformApplication.exe.config
+C:\Users\rites\source\repos\MultiformApplication\MultiformApplication\bin\Debug\MultiformApplication.exe
+C:\Users\rites\source\repos\MultiformApplication\MultiformApplication\bin\Debug\MultiformApplication.pdb
+C:\Users\rites\source\repos\MultiformApplication\MultiformApplication\obj\Debug\EmployeeWindow.baml
+C:\Users\rites\source\repos\MultiformApplication\MultiformApplication\obj\Debug\MainWindow.baml
+C:\Users\rites\source\repos\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.g.resources
+C:\Users\rites\source\repos\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.Properties.Resources.resources
+C:\Users\rites\source\repos\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.csproj.GenerateResource.cache
+C:\Users\rites\source\repos\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.exe
+C:\Users\rites\source\repos\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.pdb
+C:\Users\rites\source\repos\MultiformApplication\MultiformApplication\obj\Debug\AddingEmployee.g.cs
+C:\Users\rites\source\repos\MultiformApplication\MultiformApplication\obj\Debug\AddingEmployee.baml
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication V1.1\MultiformApplication\bin\Debug\MultiformApplication.exe.config
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication V1.1\MultiformApplication\bin\Debug\MultiformApplication.exe
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication V1.1\MultiformApplication\bin\Debug\MultiformApplication.pdb
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication.csprojAssemblyReference.cache
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication V1.1\MultiformApplication\obj\Debug\AddingEmployee.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication V1.1\MultiformApplication\obj\Debug\EmployeeWindow.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication V1.1\MultiformApplication\obj\Debug\MainWindow.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication V1.1\MultiformApplication\obj\Debug\App.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication_MarkupCompile.cache
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication_MarkupCompile.lref
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication V1.1\MultiformApplication\obj\Debug\AddingEmployee.baml
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication V1.1\MultiformApplication\obj\Debug\EmployeeWindow.baml
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication V1.1\MultiformApplication\obj\Debug\MainWindow.baml
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication.g.resources
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication.Properties.Resources.resources
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication.csproj.GenerateResource.cache
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication.exe
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication.pdb
+C:\Users\yangm\Desktop\MultiformApplication V1.1\MultiformApplication V1.1\MultiformApplication\bin\Debug\MultiformApplication.exe.config
+C:\Users\yangm\Desktop\MultiformApplication V1.1\MultiformApplication V1.1\MultiformApplication\bin\Debug\MultiformApplication.exe
+C:\Users\yangm\Desktop\MultiformApplication V1.1\MultiformApplication V1.1\MultiformApplication\bin\Debug\MultiformApplication.pdb
+C:\Users\yangm\Desktop\MultiformApplication V1.1\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication.csprojAssemblyReference.cache
+C:\Users\yangm\Desktop\MultiformApplication V1.1\MultiformApplication V1.1\MultiformApplication\obj\Debug\AddingEmployee.g.cs
+C:\Users\yangm\Desktop\MultiformApplication V1.1\MultiformApplication V1.1\MultiformApplication\obj\Debug\EmployeeWindow.g.cs
+C:\Users\yangm\Desktop\MultiformApplication V1.1\MultiformApplication V1.1\MultiformApplication\obj\Debug\MainWindow.g.cs
+C:\Users\yangm\Desktop\MultiformApplication V1.1\MultiformApplication V1.1\MultiformApplication\obj\Debug\App.g.cs
+C:\Users\yangm\Desktop\MultiformApplication V1.1\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication_MarkupCompile.cache
+C:\Users\yangm\Desktop\MultiformApplication V1.1\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication_MarkupCompile.lref
+C:\Users\yangm\Desktop\MultiformApplication V1.1\MultiformApplication V1.1\MultiformApplication\obj\Debug\AddingEmployee.baml
+C:\Users\yangm\Desktop\MultiformApplication V1.1\MultiformApplication V1.1\MultiformApplication\obj\Debug\EmployeeWindow.baml
+C:\Users\yangm\Desktop\MultiformApplication V1.1\MultiformApplication V1.1\MultiformApplication\obj\Debug\MainWindow.baml
+C:\Users\yangm\Desktop\MultiformApplication V1.1\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication.g.resources
+C:\Users\yangm\Desktop\MultiformApplication V1.1\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication.Properties.Resources.resources
+C:\Users\yangm\Desktop\MultiformApplication V1.1\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication.csproj.GenerateResource.cache
+C:\Users\yangm\Desktop\MultiformApplication V1.1\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication.csproj.CoreCompileInputs.cache
+C:\Users\yangm\Desktop\MultiformApplication V1.1\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication.exe
+C:\Users\yangm\Desktop\MultiformApplication V1.1\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication.pdb
+C:\Users\rites\Downloads\MultiformApplication\MultiformApplication\MultiformApplication V1.1\MultiformApplication\bin\Debug\MultiformApplication.exe.config
+C:\Users\rites\Downloads\MultiformApplication\MultiformApplication\MultiformApplication V1.1\MultiformApplication\bin\Debug\MultiformApplication.exe
+C:\Users\rites\Downloads\MultiformApplication\MultiformApplication\MultiformApplication V1.1\MultiformApplication\bin\Debug\MultiformApplication.pdb
+C:\Users\rites\Downloads\MultiformApplication\MultiformApplication\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication.csprojAssemblyReference.cache
+C:\Users\rites\Downloads\MultiformApplication\MultiformApplication\MultiformApplication V1.1\MultiformApplication\obj\Debug\AddingEmployee.g.cs
+C:\Users\rites\Downloads\MultiformApplication\MultiformApplication\MultiformApplication V1.1\MultiformApplication\obj\Debug\EmployeeWindow.g.cs
+C:\Users\rites\Downloads\MultiformApplication\MultiformApplication\MultiformApplication V1.1\MultiformApplication\obj\Debug\MainWindow.g.cs
+C:\Users\rites\Downloads\MultiformApplication\MultiformApplication\MultiformApplication V1.1\MultiformApplication\obj\Debug\App.g.cs
+C:\Users\rites\Downloads\MultiformApplication\MultiformApplication\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication_MarkupCompile.cache
+C:\Users\rites\Downloads\MultiformApplication\MultiformApplication\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication_MarkupCompile.lref
+C:\Users\rites\Downloads\MultiformApplication\MultiformApplication\MultiformApplication V1.1\MultiformApplication\obj\Debug\AddingEmployee.baml
+C:\Users\rites\Downloads\MultiformApplication\MultiformApplication\MultiformApplication V1.1\MultiformApplication\obj\Debug\EmployeeWindow.baml
+C:\Users\rites\Downloads\MultiformApplication\MultiformApplication\MultiformApplication V1.1\MultiformApplication\obj\Debug\MainWindow.baml
+C:\Users\rites\Downloads\MultiformApplication\MultiformApplication\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication.g.resources
+C:\Users\rites\Downloads\MultiformApplication\MultiformApplication\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication.Properties.Resources.resources
+C:\Users\rites\Downloads\MultiformApplication\MultiformApplication\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication.csproj.GenerateResource.cache
+C:\Users\rites\Downloads\MultiformApplication\MultiformApplication\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication.exe
+C:\Users\rites\Downloads\MultiformApplication\MultiformApplication\MultiformApplication V1.1\MultiformApplication\obj\Debug\MultiformApplication.pdb
+C:\Users\yangm\Downloads\MultiformApplication (1)\MultiformApplication\MultiformApplication\bin\Debug\MultiformApplication.exe.config
+C:\Users\yangm\Downloads\MultiformApplication (1)\MultiformApplication\MultiformApplication\bin\Debug\MultiformApplication.exe
+C:\Users\yangm\Downloads\MultiformApplication (1)\MultiformApplication\MultiformApplication\bin\Debug\MultiformApplication.pdb
+C:\Users\yangm\Downloads\MultiformApplication (1)\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.csprojAssemblyReference.cache
+C:\Users\yangm\Downloads\MultiformApplication (1)\MultiformApplication\MultiformApplication\obj\Debug\AddingEmployee.g.cs
+C:\Users\yangm\Downloads\MultiformApplication (1)\MultiformApplication\MultiformApplication\obj\Debug\EmployeeWindow.g.cs
+C:\Users\yangm\Downloads\MultiformApplication (1)\MultiformApplication\MultiformApplication\obj\Debug\MainWindow.g.cs
+C:\Users\yangm\Downloads\MultiformApplication (1)\MultiformApplication\MultiformApplication\obj\Debug\App.g.cs
+C:\Users\yangm\Downloads\MultiformApplication (1)\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication_MarkupCompile.cache
+C:\Users\yangm\Downloads\MultiformApplication (1)\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication_MarkupCompile.lref
+C:\Users\yangm\Downloads\MultiformApplication (1)\MultiformApplication\MultiformApplication\obj\Debug\AddingEmployee.baml
+C:\Users\yangm\Downloads\MultiformApplication (1)\MultiformApplication\MultiformApplication\obj\Debug\EmployeeWindow.baml
+C:\Users\yangm\Downloads\MultiformApplication (1)\MultiformApplication\MultiformApplication\obj\Debug\MainWindow.baml
+C:\Users\yangm\Downloads\MultiformApplication (1)\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.g.resources
+C:\Users\yangm\Downloads\MultiformApplication (1)\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.Properties.Resources.resources
+C:\Users\yangm\Downloads\MultiformApplication (1)\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.csproj.GenerateResource.cache
+C:\Users\yangm\Downloads\MultiformApplication (1)\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.csproj.CoreCompileInputs.cache
+C:\Users\yangm\Downloads\MultiformApplication (1)\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.exe
+C:\Users\yangm\Downloads\MultiformApplication (1)\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.pdb
+C:\Users\rites\Downloads\MultiformApplication (2)\MultiformApplication\MultiformApplication\MultiformApplication\bin\Debug\MultiformApplication.exe.config
+C:\Users\rites\Downloads\MultiformApplication (2)\MultiformApplication\MultiformApplication\MultiformApplication\bin\Debug\MultiformApplication.exe
+C:\Users\rites\Downloads\MultiformApplication (2)\MultiformApplication\MultiformApplication\MultiformApplication\bin\Debug\MultiformApplication.pdb
+C:\Users\rites\Downloads\MultiformApplication (2)\MultiformApplication\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.csprojAssemblyReference.cache
+C:\Users\rites\Downloads\MultiformApplication (2)\MultiformApplication\MultiformApplication\MultiformApplication\obj\Debug\AddingEmployee.g.cs
+C:\Users\rites\Downloads\MultiformApplication (2)\MultiformApplication\MultiformApplication\MultiformApplication\obj\Debug\EmployeeWindow.g.cs
+C:\Users\rites\Downloads\MultiformApplication (2)\MultiformApplication\MultiformApplication\MultiformApplication\obj\Debug\MainWindow.g.cs
+C:\Users\rites\Downloads\MultiformApplication (2)\MultiformApplication\MultiformApplication\MultiformApplication\obj\Debug\App.g.cs
+C:\Users\rites\Downloads\MultiformApplication (2)\MultiformApplication\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication_MarkupCompile.cache
+C:\Users\rites\Downloads\MultiformApplication (2)\MultiformApplication\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication_MarkupCompile.lref
+C:\Users\rites\Downloads\MultiformApplication (2)\MultiformApplication\MultiformApplication\MultiformApplication\obj\Debug\AddingEmployee.baml
+C:\Users\rites\Downloads\MultiformApplication (2)\MultiformApplication\MultiformApplication\MultiformApplication\obj\Debug\EmployeeWindow.baml
+C:\Users\rites\Downloads\MultiformApplication (2)\MultiformApplication\MultiformApplication\MultiformApplication\obj\Debug\MainWindow.baml
+C:\Users\rites\Downloads\MultiformApplication (2)\MultiformApplication\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.g.resources
+C:\Users\rites\Downloads\MultiformApplication (2)\MultiformApplication\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.Properties.Resources.resources
+C:\Users\rites\Downloads\MultiformApplication (2)\MultiformApplication\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.csproj.GenerateResource.cache
+C:\Users\rites\Downloads\MultiformApplication (2)\MultiformApplication\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.exe
+C:\Users\rites\Downloads\MultiformApplication (2)\MultiformApplication\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.pdb
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication\MultiformApplication\bin\Debug\MultiformApplication.exe.config
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication\MultiformApplication\bin\Debug\MultiformApplication.exe
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication\MultiformApplication\bin\Debug\MultiformApplication.pdb
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.csprojAssemblyReference.cache
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication\MultiformApplication\obj\Debug\AddingEmployee.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication\MultiformApplication\obj\Debug\EmployeeWindow.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication\MultiformApplication\obj\Debug\MainWindow.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication\MultiformApplication\obj\Debug\App.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication_MarkupCompile.cache
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication_MarkupCompile.lref
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication\MultiformApplication\obj\Debug\AddingEmployee.baml
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication\MultiformApplication\obj\Debug\EmployeeWindow.baml
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication\MultiformApplication\obj\Debug\MainWindow.baml
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.g.resources
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.Properties.Resources.resources
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.csproj.GenerateResource.cache
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.exe
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 10 Assignment\MultiformApplication\MultiformApplication\obj\Debug\MultiformApplication.pdb

@@ -1,0 +1,46 @@
+﻿<Window x:Class="MultiformApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MultiformApplication"
+        mc:Ignorable="d"
+        Title="Personnel Employees" Height="370" Width="430" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="AliceBlue">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Content="Employee ID" Foreground="Black" FontStyle="Italic" Margin="4"/>
+        <Label Grid.Row="0" Grid.Column="1" Content="Name" Foreground="Black" FontStyle="Italic" Margin="4,4"/>
+        <Label Grid.Row="0" Grid.Column="2" Content="Position" Foreground="Black" FontStyle="Italic" Margin="-1,4"/>
+        <Label Grid.Row="0" Grid.Column="3" Content="Hourly pay rate" Foreground="Black" FontStyle="Italic" Margin="-9,4"/>
+        <ListBox Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4" Background="AliceBlue" ItemsSource="{Binding Employees}" SelectedItem="{Binding SelectedEmployee}"  Margin="10" HorizontalContentAlignment="Stretch">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Column="0" Content="{Binding Employee_ID}" Foreground="Maroon" FontStyle="Italic"/>
+                        <Label Grid.Column="1" Content="{Binding Name}" Foreground="Maroon" FontStyle="Italic"/>
+                        <Label Grid.Column="2" Content="{Binding Position}" Foreground="Maroon" FontStyle="Italic"/>
+                        <Label Grid.Column="3" Content="{Binding Hourly_pay_rate}" Foreground="Maroon" FontStyle="Italic"/>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="4" Margin="4" Content="Edit" Name="Edit"  Click="Edit_Click" Foreground="Red" FontSize="17" FontWeight="Bold" FontStyle="Italic"/>
+        <Button Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Margin="4" Content="Add" Name="Add"  Click="Add_Click" Foreground="Red" FontSize="17" FontWeight="Bold" FontStyle="Italic"/>
+    </Grid>
+</Window>

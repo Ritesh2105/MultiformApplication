@@ -1,0 +1,31 @@
+﻿<Window x:Class="MultiformApplication.AddingEmployee"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MultiformApplication"
+        mc:Ignorable="d"
+        Title="Adding Employee" Height="400" Width="360" ResizeMode="NoResize">
+    <Grid Background="AliceBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Margin="10" Content="Employee_ID" Foreground="Blue"></Label>
+        <TextBox Grid.Row="0" Grid.Column="1" Margin="10" MinWidth="100" Text="{Binding ID}"/>
+        <Label Grid.Row="1" Grid.Column="0" Margin="10" Content="Name" Foreground="Blue"></Label>
+        <TextBox Grid.Row="1" Grid.Column="1" Margin="10" MinWidth="100" Text="{Binding Name}"/>
+        <Label Grid.Row="2" Grid.Column="0" Margin="10" Content="Position " Foreground="Blue"></Label>
+        <TextBox Grid.Row="2" Grid.Column="1" Margin="10" MinWidth="100" Text="{Binding Position}"/>
+        <Label Grid.Row="3" Grid.Column="0" Margin="10" Content="Hourly pay rate" Foreground="Blue"></Label>
+        <TextBox Grid.Row="3" Grid.Column="1" Margin="10" MinWidth="100" Text="{Binding PayRate}"/>
+        <Button Grid.Row="4" Grid.ColumnSpan="2" Margin="60,5" Content="Add Employee" Name="Add_Employee" Click="Add_Employee_Click" Foreground="Red" FontSize="30"/>
+    </Grid>
+</Window>
